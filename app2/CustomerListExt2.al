@@ -8,5 +8,6 @@ pageextension 56000 CustomerListExt extends "Customer List"
     begin
         Message('App published: Hello world');
     end;
+    // Test
 }
 
